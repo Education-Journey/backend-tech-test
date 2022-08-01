@@ -8,6 +8,9 @@ e.g:
 Output for 5: 
 120
 
+Output for 0: 
+1
+
 
 ## Implementação de uma função que retorna um número da sequência de fibonaci recebendo a sua posição
 
