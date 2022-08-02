@@ -16,8 +16,6 @@ Output for 0:
 
 e.g:
 
-def fibonacci 
-...
 
 Output for 1: 
 1 
