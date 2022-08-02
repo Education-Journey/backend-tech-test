@@ -25,3 +25,6 @@ Output for 2:
 
 Output for 14: 
 377
+
+- É permitido consultar documentações da linguagem acerca de métodos, funções, etc, desde que seja visível para os avaliadores
+- Não é permitido pesquisar implementações ou soluções
