@@ -17,7 +17,7 @@ Output for 0:
 Sequência de Fibonacci é a sequência numérica proposta pelo matemático Leonardo Pisa, mais conhecido como Fibonacci. Ela se dá através da seguinte fórmula:
 Fn = Fn - 1 + Fn - 2
 
-0 é o primeiro elemento da sequência e 1 é o segundo elemento.
+0 é o "zerézmo" elemento da sequência e 1 é o primeiro elemento.
 
 e.g:
 
