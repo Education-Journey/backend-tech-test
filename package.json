@@ -1,0 +1,22 @@
+{
+  "name": "backend-tech-test",
+  "version": "1.0.0",
+  "description": "O fatorial de um número n, representado por n!, é a multiplicação de n por seus antecessores maiores ou iguais a 1, ou seja, o fatorial de 5 é igual a 5 * 4 * 3 * 2 * 1.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config ./jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Education-Journey/backend-tech-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Education-Journey/backend-tech-test/issues"
+  },
+  "homepage": "https://github.com/Education-Journey/backend-tech-test#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
