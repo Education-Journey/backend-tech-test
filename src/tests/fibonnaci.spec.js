@@ -41,4 +41,11 @@ describe('~~ Fibonnaci tests', () => {
 
     expect(result).toEqual(927372692193078999176)
   })
+  it('should return 413462646668428032346940119724892718502248750418536685577487386752440 in input 330', () => {
+    const input = 330
+
+    const result = fibonnaci(input)
+
+    expect(result).toEqual(413462646668428032346940119724892718502248750418536685577487386752440)
+  })
 })
