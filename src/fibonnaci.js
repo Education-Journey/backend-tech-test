@@ -1,8 +1,5 @@
-function fibonnaci(n) { 
-  if(n<=1){
-    return 1
-  }
-  return fibonnaci(n-1) + fibonnaci(n-2)
+function fibonnaci(n) {
+  
 }
 
 module.exports = fibonnaci

@@ -27,18 +27,18 @@ describe('~~ Fibonnaci tests', () => {
 
     expect(result).toEqual(2584)
   })
-  it('should return 2178309 in input 32', () => {
-    const input = 32
+  it('should return 6765 in input 20', () => {
+    const input = 20 
 
     const result = fibonnaci(input)
 
-    expect(result).toEqual(2178309)
+    expect(result).toEqual(6765)
   })
-  it('should return 927372692193078999176 in input 102', () => {
-    const input = 102
+  it('should return 1134903170 in input 45', () => {
+    const input = 45
 
     const result = fibonnaci(input)
 
-    expect(result).toEqual(927372692193078999176)
+    expect(result).toEqual(1134903170)
   })
 })
